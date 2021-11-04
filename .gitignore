@@ -1,6 +1,6 @@
 $ cat .gitignore
 
-*.idea 
+.idea 
 logs/
 .vscode 
 .DS_Store
