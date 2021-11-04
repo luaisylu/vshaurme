@@ -1,2 +1,5 @@
 $ cat .gitignore
-.idea 
+
+*.idea 
+.vscode 
+.DS_Store
