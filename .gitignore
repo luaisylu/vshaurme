@@ -1,6 +1,7 @@
 $ cat .gitignore
 
-.idea 
+*.idea 
 logs/
-.vscode 
-.DS_Store
+*.vscode 
+*.DS_Store
+.sqlite3/**/*.SQLite3
