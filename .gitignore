@@ -1,5 +1,4 @@
 .idea 
-logs/
 *.vscode 
 *.DS_Store
 *.sqlite3
