@@ -1,7 +1,6 @@
-$ cat .gitignore
-
-*.idea 
+.idea 
 logs/
 *.vscode 
 *.DS_Store
-.sqlite3/**/*.SQLite3
+*.sqlite3
+git rm --cached <.sqlite3>
