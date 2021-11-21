@@ -3,4 +3,10 @@ logs/
 *.vscode 
 *.DS_Store
 *.sqlite3
+/.sqlite3/db.sqlite3/*
+/.sqlite3/database.sqlite3/*
+/.sqlite3/another_db.sqlite3/*
 git rm --cached <.sqlite3>
+git rm --cached <db.sqlite3>
+git rm --cached <database.sqlite3>
+git rm --cached <another_db.sqlite3>
